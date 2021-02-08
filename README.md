@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Evelyn
+### My name is Evelyn
 #### I am a software engineer living in London, UK
 ![I am a software engineer living in London, UK](https://raw.githubusercontent.com/evelynstender/evelynstender/main/Hey_there!_%F0%9F%91%8B.png)
 
